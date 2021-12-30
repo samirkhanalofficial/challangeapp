@@ -1,16 +1,29 @@
 # samirprojects
 
-A new Flutter project.
+A new Challange projects for flutter apps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### setup
 
-A few resources to get you started if this is your first Flutter project:
+[Install flutter and its requirements](https://https://docs.flutter.dev/get-started/install)
+create any folder and open git bash on that location and clone repo with this code.
+`git clone https://github.com/samirlure161/challangeapp.git`
+open the project in terminal and enter :
+`flutter pub get`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### running in build mode
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+connect the device with a usb cable and enable the **developer options** and then enable **USB debugging** then give permission to allow app debugging for you pc.
+type the command below to run flutter app in build mode:
+`flutter run`
+type the command below to run flutter app in release mode 
+`flutter run --release`
+
+## Publishing
+
+After edting the app, you have all the permissions to publish and use the code for commercial use. Just build a released version of the app to publish your app for playstore and more. Visit the link below for more details on  packaging and publishing your app.
+
+[For Android](https://docs.flutter.dev/deployment/android)
+[For IOS](https://docs.flutter.dev/deployment/ios)
+[For more](https://flutter.dev)
