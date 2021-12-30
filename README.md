@@ -10,7 +10,7 @@ A new Challange projects for flutter apps.
 create any folder and open git bash on that location and clone repo with this code.\
 `git clone https://github.com/samirlure161/challangeapp.git`\
 open the project in terminal and enter :\
-`flutter pub get`\
+`flutter pub get` \
 
 ### running in build mode
 
@@ -22,7 +22,7 @@ type the command below to run flutter app in release mode \
 
 ## Publishing
 
-After edting the app, you have all the permissions to publish and use the code for commercial use. Just build a released version of the app to publish your app for playstore and more. Visit the link below for more details on  packaging and publishing your app.\
+After edting the app, you have all the permissions to publish and use the code for commercial use. Just build a released version of the app to publish your app for playstore and more. Visit the link below for more details on  packaging and publishing your app. \
 
 [For Android](https://docs.flutter.dev/deployment/android)\
 [For IOS](https://docs.flutter.dev/deployment/ios)\
