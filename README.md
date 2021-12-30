@@ -7,6 +7,7 @@ A new Challange projects for flutter apps.
 ### setup
 
 [Install flutter and its requirements](https://https://docs.flutter.dev/get-started/install)
+
 create any folder and open git bash on that location and clone repo with this code.
 
 ```git clone https://github.com/samirlure161/challangeapp.git```
